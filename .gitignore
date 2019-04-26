@@ -1,0 +1,9 @@
+LICENSE
+*.*
+!.gitignore
+!package.json
+!readme.md
+/node_modules/**/package.json
+/node_modules/**/readme.md
+!/node_modules/@blueprintjs/datetime/lib/css/blueprint-datetime.css.map
+!/node_modules/@blueprintjs/core/src/common/_variables.scss
